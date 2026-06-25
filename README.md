@@ -1,4 +1,10 @@
-# PLCSeg: sar-guided progressive learning for semantic segmentation of cloudy remote sensing images
+# PLCSeg: SAR-guided Progressive Learning for Semantic Segmentation of Cloudy Remote Sensing Images
+
+This repository contains the official implementation of:
+
+> **PLCSeg: SAR-guided Progressive Learning for Semantic Segmentation of Cloudy Remote Sensing Images**
+>  GIScience & Remote Sensing (2026)
+
 ![Framework](figs/overview.png)
 
 ## Introduction
