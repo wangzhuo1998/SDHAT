@@ -8,6 +8,9 @@ This repository contains the official implementation of:
 
 ![Framework](figs/overview.png)
 
+*Figure 1. Overall framework of the proposed PLCSeg.*
+
+
 ## Introduction
 
 Cloud contamination is a common problem in optical remote sensing images, which can seriously affect the performance of semantic segmentation models. To address this issue, this project proposes **PLCSeg**, a SAR-guided progressive learning method for semantic segmentation of cloudy remote sensing images.
